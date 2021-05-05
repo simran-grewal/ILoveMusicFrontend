@@ -1,0 +1,45 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Dancing Script', cursive, Avenir, Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+  font-size: 62.5%;
+  color: #777;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+  color: #28a745;
+}
+
+.smallnum {
+  border-radius: 50%;
+  color: black;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1.5rem;
+  background: linear-gradient(to right, #30cfd0 0%, #330867 100%);
+}
+
+@media (min-width: 1000px) {
+  h1 {
+    font-size: 4rem;
+  }
+  h2 {
+    font-size: 3rem;
+    color: #28a745;
+  }
+  h3 {
+    font-size: 2rem;
+  }
+  h4 {
+    font-size: 1.5rem;
+  }
+}
