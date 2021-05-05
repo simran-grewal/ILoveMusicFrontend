@@ -18,3 +18,4 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/19415171/117086306-11caad80-ad01-11eb-9d39-623b88e19949.gif)
